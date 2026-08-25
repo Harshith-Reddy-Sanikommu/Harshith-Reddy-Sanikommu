@@ -1,130 +1,200 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,75:1E3A8A,100:0891B2&height=250&section=header&text=HARSHITH%20REDDY%20SANIKOMMU&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20DATA%20ANALYST%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=60&descSize=17&descColor=BAE6FD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B1120,70:172554,100:0891B2&height=280&section=header&text=HARSHITH%20REDDY%20SANIKOMMU&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%20%7C%20%20DATA%20ANALYST%20%20%7C%20%20AI%2FML%20ENTHUSIAST&descAlignY=59&descSize=17&descColor=67E8F9"/>
 
 <br>
 
-<h3>BUILDING • LEARNING • IMPROVING</h3>
-
-<br>
-
-<a href="https://github.com/Harshith-Reddy-Sanikommu">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
-<img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://outlook.live.com/mail/0/deeplink/compose?to=kruteek123@gmail.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://wa.me/919398490686">
-<img src="https://img.shields.io/badge/WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Practical+Applications;Exploring+Data+and+AI;Developing+Software+Solutions;Learning+Something+New+Every+Day"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ABOUT ME
-
-<p>
-A little about what I do and what I'm working towards.
-</p>
-
-</div>
-
-<table width="100%">
+<table>
 <tr>
+<td align="center">
 
-<td width="62%" valign="top">
-
-### Software • Data • AI
-
-I'm a **B.Tech Computer Science and Design (CSD) student** interested in **Software Engineering, Data Analytics, AI/ML, and Full-Stack Development**.
-
-I enjoy building practical applications and solving real-world problems through technology.
-
-Currently improving my **programming, DSA, problem-solving, and technical skills**.
+<font color="#67E8F9"><b>BUILDING</b></font>
 
 </td>
+<td align="center">
 
-<td width="38%" valign="top">
-
-### CURRENT FOCUS
-
-<br>
-
-`SOFTWARE DEVELOPMENT`
-
-`DATA ANALYTICS`
-
-`AI / ML`
-
-`FULL-STACK DEVELOPMENT`
+<font color="#94A3B8">•</font>
 
 </td>
+<td align="center">
 
+<font color="#60A5FA"><b>LEARNING</b></font>
+
+</td>
+<td align="center">
+
+<font color="#94A3B8">•</font>
+
+</td>
+<td align="center">
+
+<font color="#22D3EE"><b>IMPROVING</b></font>
+
+</td>
 </tr>
 </table>
 
 <br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Building+Practical+Applications;Exploring+Data+and+AI;Developing+Software+Solutions;Turning+Ideas+Into+Working+Solutions"/>
+
+<br><br>
+
+<a href="https://github.com/Harshith-Reddy-Sanikommu">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
+<img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="https://outlook.live.com/mail/0/deeplink/compose?to=kruteek123@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0369A1?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="https://wa.me/919398490686">
+<img src="https://img.shields.io/badge/WHATSAPP-15803D?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td bgcolor="#0B1120">
 
 <div align="center">
 
-## TECH STACK
+<font color="#67E8F9">
+
+## ABOUT ME
+
+</font>
+
+</div>
+
+<br>
+
+<font color="#CBD5E1">
+
+I'm a <font color="#FFFFFF"><b>B.Tech Computer Science and Design (CSD) student</b></font> interested in <font color="#67E8F9"><b>Software Engineering, Data Analytics, AI/ML, and Full-Stack Development</b></font>.
+
+I enjoy building practical applications and solving real-world problems through technology.
+
+Currently improving my <font color="#60A5FA"><b>programming, DSA, problem-solving, and technical skills</b></font>.
+
+</font>
+
+<br><br>
+
+<div align="center">
+
+<font color="#64748B">SOFTWARE</font>
+&nbsp;&nbsp;&nbsp;
+<font color="#64748B">DATA</font>
+&nbsp;&nbsp;&nbsp;
+<font color="#64748B">AI / ML</font>
+&nbsp;&nbsp;&nbsp;
+<font color="#64748B">FULL-STACK</font>
+
+</div>
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<font color="#67E8F9">
+
+# TECH STACK
+
+</font>
 
 <p>
+<font color="#94A3B8">
 Technologies I work with and continue to develop.
+</font>
 </p>
 
 </div>
+
+<br>
 
 <table width="100%">
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#0B1120" valign="top">
+
+<div align="center">
+
+<font color="#60A5FA">
 
 ### PROGRAMMING
 
-<br>
-
-`JAVA` &nbsp;&nbsp; `PYTHON`
+</font>
 
 <br><br>
 
-`C` &nbsp;&nbsp; `SQL`
+<font color="#FFFFFF">
+
+`JAVA`
+
+&nbsp;&nbsp;
+
+`PYTHON`
 
 <br><br>
+
+`C`
+
+&nbsp;&nbsp;
+
+`SQL`
+
+&nbsp;&nbsp;
 
 `JAVASCRIPT`
 
+</font>
+
+</div>
+
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#111827" valign="top">
+
+<div align="center">
+
+<font color="#22D3EE">
 
 ### FRONTEND
 
-<br>
+</font>
 
-`HTML` &nbsp;&nbsp; `CSS`
+<br><br>
+
+<font color="#FFFFFF">
+
+`HTML`
+
+&nbsp;&nbsp;
+
+`CSS`
 
 <br><br>
 
 `REACT.JS`
+
+</font>
+
+</div>
 
 </td>
 
@@ -132,25 +202,49 @@ Technologies I work with and continue to develop.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#111827" valign="top">
+
+<div align="center">
+
+<font color="#38BDF8">
 
 ### BACKEND
 
-<br>
+</font>
 
-`NODE.JS` &nbsp;&nbsp; `EXPRESS.JS`
+<br><br>
+
+<font color="#FFFFFF">
+
+`NODE.JS`
+
+&nbsp;&nbsp;
+
+`EXPRESS.JS`
+
+</font>
+
+</div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#0B1120" valign="top">
+
+<div align="center">
+
+<font color="#67E8F9">
 
 ### DATABASES
 
-<br>
+</font>
+
+<br><br>
+
+<font color="#FFFFFF">
 
 `MONGODB`
 
-<br><br>
+&nbsp;&nbsp;
 
 `MONGODB ATLAS`
 
@@ -158,35 +252,67 @@ Technologies I work with and continue to develop.
 
 `MYSQL`
 
+</font>
+
+</div>
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#0B1120" valign="top">
+
+<div align="center">
+
+<font color="#60A5FA">
 
 ### DATA ANALYTICS
 
-<br>
+</font>
 
-`PANDAS` &nbsp;&nbsp; `NUMPY`
+<br><br>
+
+<font color="#FFFFFF">
+
+`PANDAS`
+
+&nbsp;&nbsp;
+
+`NUMPY`
 
 <br><br>
 
 `MATPLOTLIB`
 
+&nbsp;&nbsp;
+
+`POWER BI`
+
 <br><br>
 
-`POWER BI` &nbsp;&nbsp; `TABLEAU`
+`TABLEAU`
+
+</font>
+
+</div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#111827" valign="top">
+
+<div align="center">
+
+<font color="#22D3EE">
 
 ### AI / ML
 
-<br>
+</font>
+
+<br><br>
+
+<font color="#FFFFFF">
 
 `MACHINE LEARNING`
 
@@ -198,35 +324,63 @@ Technologies I work with and continue to develop.
 
 `COMPUTER VISION`
 
+</font>
+
+</div>
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#111827" valign="top">
+
+<div align="center">
+
+<font color="#38BDF8">
 
 ### TOOLS
 
-<br>
+</font>
 
-`GIT` &nbsp;&nbsp; `GITHUB`
+<br><br>
+
+<font color="#FFFFFF">
+
+`GIT`
+
+&nbsp;&nbsp;
+
+`GITHUB`
 
 <br><br>
 
 `VS CODE`
 
-<br><br>
+&nbsp;&nbsp;
 
 `STREAMLIT`
 
+</font>
+
+</div>
+
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#0B1120" valign="top">
+
+<div align="center">
+
+<font color="#67E8F9">
 
 ### DEVELOPMENT AREAS
 
-<br>
+</font>
+
+<br><br>
+
+<font color="#FFFFFF">
 
 `SOFTWARE ENGINEERING`
 
@@ -238,6 +392,10 @@ Technologies I work with and continue to develop.
 
 `AI / ML`
 
+</font>
+
+</div>
+
 </td>
 
 </tr>
@@ -246,11 +404,13 @@ Technologies I work with and continue to develop.
 
 <br>
 
----
-
 <div align="center">
 
-## CURRENTLY LEARNING
+<font color="#67E8F9">
+
+# CURRENTLY LEARNING
+
+</font>
 
 </div>
 
@@ -260,27 +420,33 @@ Technologies I work with and continue to develop.
 
 <tr>
 
-<td align="center">
+<td bgcolor="#0B1120" align="center">
 
-### DATA STRUCTURES & ALGORITHMS
+<font color="#67E8F9"><b>DATA STRUCTURES & ALGORITHMS</b></font>
 
-Strengthening DSA and problem-solving skills.
+<br><br>
 
-</td>
-
-<td align="center">
-
-### MACHINE LEARNING
-
-Building stronger ML fundamentals.
+<font color="#94A3B8">Strengthening DSA and problem solving</font>
 
 </td>
 
-<td align="center">
+<td bgcolor="#111827" align="center">
 
-### FULL-STACK DEVELOPMENT
+<font color="#60A5FA"><b>MACHINE LEARNING</b></font>
 
-Improving modern web development skills.
+<br><br>
+
+<font color="#94A3B8">Building stronger ML fundamentals</font>
+
+</td>
+
+<td bgcolor="#0B1120" align="center">
+
+<font color="#22D3EE"><b>FULL-STACK DEVELOPMENT</b></font>
+
+<br><br>
+
+<font color="#94A3B8">Improving modern web development</font>
 
 </td>
 
@@ -288,27 +454,33 @@ Improving modern web development skills.
 
 <tr>
 
-<td align="center">
+<td bgcolor="#111827" align="center">
 
-### DATA ANALYTICS
+<font color="#38BDF8"><b>DATA ANALYTICS</b></font>
 
-Developing stronger analytical skills.
+<br><br>
 
-</td>
-
-<td align="center">
-
-### AI / ML
-
-Understanding core AI/ML concepts.
+<font color="#94A3B8">Developing analytical skills</font>
 
 </td>
 
-<td align="center">
+<td bgcolor="#0B1120" align="center">
 
-### PROBLEM SOLVING
+<font color="#67E8F9"><b>AI / ML CONCEPTS</b></font>
 
-Improving logical and programming skills.
+<br><br>
+
+<font color="#94A3B8">Understanding AI and ML concepts</font>
+
+</td>
+
+<td bgcolor="#111827" align="center">
+
+<font color="#60A5FA"><b>PROBLEM SOLVING</b></font>
+
+<br><br>
+
+<font color="#94A3B8">Improving logical thinking</font>
 
 </td>
 
@@ -318,31 +490,45 @@ Improving logical and programming skills.
 
 <br>
 
----
-
 <div align="center">
 
-## GOALS
+<font color="#67E8F9">
+
+# GOALS
+
+</font>
 
 </div>
+
+<br>
 
 <table width="100%">
 
 <tr>
 
-<td width="50%" align="center">
+<td bgcolor="#0B1120" width="50%" align="center">
 
-### STRENGTHEN
+<font color="#60A5FA"><b>STRENGTHEN</b></font>
 
-Improve software development, programming, and DSA skills.
+<br><br>
+
+<font color="#CBD5E1">
+Improve software development,
+programming and DSA skills.
+</font>
 
 </td>
 
-<td width="50%" align="center">
+<td bgcolor="#111827" width="50%" align="center">
 
-### BUILD
+<font color="#22D3EE"><b>BUILD</b></font>
 
-Create practical applications that solve real-world problems.
+<br><br>
+
+<font color="#CBD5E1">
+Create practical applications
+that solve real-world problems.
+</font>
 
 </td>
 
@@ -350,19 +536,29 @@ Create practical applications that solve real-world problems.
 
 <tr>
 
-<td width="50%" align="center">
+<td bgcolor="#111827" width="50%" align="center">
 
-### EXPLORE
+<font color="#38BDF8"><b>EXPLORE</b></font>
 
-Continue developing skills in Data Analytics and AI/ML.
+<br><br>
+
+<font color="#CBD5E1">
+Continue developing skills in
+Data Analytics and AI/ML.
+</font>
 
 </td>
 
-<td width="50%" align="center">
+<td bgcolor="#0B1120" width="50%" align="center">
 
-### GROW
+<font color="#67E8F9"><b>GROW</b></font>
 
-Develop industry-ready technical skills and gain professional experience.
+<br><br>
+
+<font color="#CBD5E1">
+Develop industry-ready technical
+skills and gain experience.
+</font>
 
 </td>
 
@@ -372,62 +568,68 @@ Develop industry-ready technical skills and gain professional experience.
 
 <br>
 
----
+<table width="100%">
+<tr>
+<td bgcolor="#020617">
 
 <div align="center">
 
-## CONNECT WITH ME
+<font color="#67E8F9">
 
-<br>
+# LET'S CONNECT
 
-<p>
-Feel free to connect with me through any of the platforms below.
-</p>
+</font>
 
-<br>
+<br><br>
+
+<font color="#94A3B8">
+
+Feel free to connect with me.
+
+</font>
+
+<br><br>
 
 <a href="https://github.com/Harshith-Reddy-Sanikommu">
-<img src="https://img.shields.io/badge/GitHub-VIEW%20PROFILE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://outlook.live.com/mail/0/deeplink/compose?to=kruteek123@gmail.com">
-<img src="https://img.shields.io/badge/kruteek123%40gmail.com-EMAIL%20ME-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/kruteek123%40gmail.com-EMAIL%20ME-0369A1?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://wa.me/919398490686">
-<img src="https://img.shields.io/badge/%2B91%209398490686-WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/%2B91%209398490686-WHATSAPP-15803D?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br><br><br>
 
+<font color="#64748B">
+
+BUILD &nbsp; • &nbsp; LEARN &nbsp; • &nbsp; IMPROVE
+
+</font>
+
 </div>
 
----
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,50:1D4ED8,100:020617&height=4&section=footer"/>
-
-<br>
-
-### `BUILD` &nbsp; `LEARN` &nbsp; `IMPROVE`
-
-<br>
-
-<sub>Thanks for visiting my profile.</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:1D4ED8,75:0F172A,100:020617&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,35:1D4ED8,70:0F172A,100:020617&height=140&section=footer"/>
 
 </div>
