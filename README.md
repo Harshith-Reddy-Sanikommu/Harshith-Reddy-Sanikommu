@@ -44,7 +44,9 @@ AI / ML ENTHUSIAST
 
 </div>
 
+
 <br><br>
+
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -54,53 +56,55 @@ AI / ML ENTHUSIAST
 
 <br><br>
 
-<h2> B.Tech Computer Science and Design Student </h2>
+<h2>Computer Science & Data Science Student</h2>
 
 <br>
 
-<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Software%20Development-2563EB?style=for-the-badge&labelColor=020617"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Data%20Analytics-06B6D4?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Data%20Science-06B6D4?style=for-the-badge&labelColor=020617"/>
 &nbsp;
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-7C3AED?style=for-the-badge&labelColor=020617"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Full--Stack%20Development-0D9488?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-0D9488?style=for-the-badge&labelColor=020617"/>
 
 <br><br><br>
 
 <h3>
-I am a Computer Science and Design student passionate about building
+I am a Computer Science and Data Science student passionate about
 <br>
-practical software applications and solving real-world problems with technology.
+building practical software solutions and working with data-driven technologies.
 </h3>
 
 <br>
 
 <h3>
-I enjoy working across software development, data analytics, and artificial intelligence,
+I enjoy developing applications, analyzing data, and exploring how
 <br>
-with a strong interest in turning ideas into useful and scalable applications.
+artificial intelligence can be used to solve real-world problems.
 </h3>
 
 <br>
 
 <h3>
-I believe in learning by building, improving through problem solving,
+I focus on writing clean and efficient solutions while gaining
 <br>
-and continuously strengthening my technical foundation through hands-on projects.
+hands-on experience through projects and practical problem solving.
 </h3>
 
 <br>
 
 <h3>
-My goal is to grow into a strong software professional who can combine
+My goal is to build strong technical expertise and create
 <br>
-programming, data, and AI to create meaningful technology solutions.
+useful, reliable, and impactful technology solutions.
 </h3>
 
 </div>
 
+
 <br><br><br>
+
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -234,7 +238,9 @@ programming, data, and AI to create meaningful technology solutions.
 
 </div>
 
+
 <br><br><br>
+
 
 <!-- ==================== CURRENTLY LEARNING ==================== -->
 
@@ -260,7 +266,9 @@ programming, data, and AI to create meaningful technology solutions.
 
 </div>
 
+
 <br><br><br>
+
 
 <!-- ==================== GOALS ==================== -->
 
@@ -286,7 +294,9 @@ programming, data, and AI to create meaningful technology solutions.
 
 </div>
 
+
 <br><br><br>
+
 
 <!-- ==================== CONTACT ==================== -->
 
