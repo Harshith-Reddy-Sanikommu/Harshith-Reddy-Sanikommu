@@ -1,65 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=HARSHITH%20REDDY%20SANIKOMMU&fontSize=42&fontAlignY=35&animation=fadeIn&color=0:020617,30:0F172A,65:1E40AF,100:06B6D4&fontColor=FFFFFF&desc=SOFTWARE%20ENGINEER%20%20•%20%20DATA%20ANALYST%20%20•%20%20AI%2FML%20ENTHUSIAST&descAlignY=55&descSize=17&descColor=BAE6FD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=HARSHITH%20REDDY%20SANIKOMMU&fontSize=42&fontAlignY=36&animation=fadeIn&color=0:020617,45:0F172A,75:1E40AF,100:0891B2&fontColor=FFFFFF&desc=SOFTWARE%20ENGINEER%20%20%7C%20%20DATA%20ANALYST%20%20%7C%20%20AI%2FML%20ENTHUSIAST&descAlignY=58&descSize=17&descColor=BAE6FD"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Designing+%26+Building+Practical+Applications;Turning+Data+Into+Useful+Insights;Exploring+Artificial+Intelligence;Always+Learning.+Always+Building."/>
+### `BUILDING • LEARNING • IMPROVING`
 
-<br><br>
+<br>
 
 <a href="https://github.com/Harshith-Reddy-Sanikommu">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://outlook.live.com/mail/0/deeplink/compose?to=kruteek123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://wa.me/919398490686">
-<img src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+practical+applications;Exploring+Data+%26+AI;Developing+software+solutions;Always+learning+new+technologies"/>
+
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-# `01`  ABOUT ME
+## ABOUT ME
 
 <br>
 
 <table width="90%">
 <tr>
 
-<td width="60%" align="left">
+<td align="center">
 
-### 👋 Hello, I'm Harshith
+### SOFTWARE • DATA • AI
 
-I'm a **B.Tech Computer Science and Design (CSD) student** interested in **Software Engineering, Data Analytics, AI/ML, and Full-Stack Development**.
+<br>
+
+I'm a **B.Tech Computer Science and Design (CSD) student** interested in  
+**Software Engineering, Data Analytics, AI/ML, and Full-Stack Development**.
+
+<br>
 
 I enjoy building practical applications and solving real-world problems through technology.
 
-Currently, I'm improving my **programming, DSA, problem-solving, and technical skills** while exploring new technologies.
+<br>
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mongodb" width="260"/>
-
-<br><br>
-
-`SOFTWARE`  
-`DATA`  
-`AI / ML`
+Currently improving my **programming, DSA, problem-solving, and technical skills**.
 
 </td>
 
@@ -74,84 +79,149 @@ Currently, I'm improving my **programming, DSA, problem-solving, and technical s
 
 <div align="center">
 
-# `02`  TECH STACK
+## TECH STACK
 
 <br>
 
-### `PROGRAMMING`
+<table width="90%">
+
+<tr>
+
+<td width="50%" align="center">
+
+### PROGRAMMING
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js" height="58"/>
+` JAVA ` &nbsp; ` PYTHON `
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=58A6FF"/>
+` C ` &nbsp; ` SQL ` &nbsp; ` JAVASCRIPT `
 
-<br><br><br>
+</td>
 
-### `FRONTEND`
+<td width="50%" align="center">
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,react" height="58"/>
-
-<br><br><br>
-
-### `BACKEND`
+### FRONTEND
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="58"/>
-
-<br><br><br>
-
-### `DATABASES`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="58"/>
+` HTML ` &nbsp; ` CSS `
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+` REACT.JS `
 
-<br><br><br>
+</td>
 
-### `DATA ANALYTICS`
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### BACKEND
 
 <br>
 
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+` NODE.JS ` &nbsp; ` EXPRESS.JS `
+
+</td>
+
+<td width="50%" align="center">
+
+### DATABASES
+
+<br>
+
+` MONGODB ` &nbsp; ` MONGODB ATLAS `
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+` MYSQL `
 
-<br><br><br>
+</td>
 
-### `AI / MACHINE LEARNING`
+</tr>
 
-<br>
+<tr>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+<td width="50%" align="center">
 
-<br><br><br>
-
-### `TOOLS`
+### DATA ANALYTICS
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="58"/>
+` PANDAS ` &nbsp; ` NUMPY `
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+` MATPLOTLIB ` &nbsp; ` POWER BI `
+
+<br><br>
+
+` TABLEAU `
+
+</td>
+
+<td width="50%" align="center">
+
+### AI / ML
+
+<br>
+
+` MACHINE LEARNING `
+
+<br><br>
+
+` DEEP LEARNING `
+
+<br><br>
+
+` COMPUTER VISION `
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### TOOLS
+
+<br>
+
+` GIT ` &nbsp; ` GITHUB `
+
+<br><br>
+
+` VS CODE ` &nbsp; ` STREAMLIT `
+
+</td>
+
+<td width="50%" align="center">
+
+### CORE FOCUS
+
+<br>
+
+` SOFTWARE DEVELOPMENT `
+
+<br><br>
+
+` DATA ANALYTICS `
+
+<br><br>
+
+` AI / ML `
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -161,40 +231,29 @@ Currently, I'm improving my **programming, DSA, problem-solving, and technical s
 
 <div align="center">
 
-# `03`  CURRENTLY LEARNING
+## CURRENTLY LEARNING
 
-<br><br>
+<br>
 
 <table width="90%">
+
 <tr>
 
 <td align="center">
 
-### 🧩
-
-**DATA STRUCTURES**
-
-Algorithms & problem solving
+**DATA STRUCTURES & ALGORITHMS**
 
 </td>
 
 <td align="center">
-
-### 🤖
 
 **MACHINE LEARNING**
 
-Models & concepts
-
 </td>
 
 <td align="center">
 
-### 🌐
-
-**FULL-STACK**
-
-Modern web development
+**FULL-STACK DEVELOPMENT**
 
 </td>
 
@@ -204,31 +263,19 @@ Modern web development
 
 <td align="center">
 
-### 📊
-
-**DATA ANALYTICS**
-
-Advanced analysis
+**ADVANCED DATA ANALYTICS**
 
 </td>
 
 <td align="center">
 
-### 🧠
-
-**AI / ML**
-
-Core concepts
+**AI / ML CONCEPTS**
 
 </td>
 
 <td align="center">
-
-### 💡
 
 **PROBLEM SOLVING**
-
-Logical thinking
 
 </td>
 
@@ -244,7 +291,7 @@ Logical thinking
 
 <div align="center">
 
-# `04`  DIRECTION
+## GOALS
 
 <br>
 
@@ -254,17 +301,17 @@ Logical thinking
 
 <td width="50%" align="center">
 
-## ⚡ BUILD
+### SOFTWARE DEVELOPMENT
 
-Create practical applications that solve real problems.
+Strengthen programming and software engineering skills.
 
 </td>
 
 <td width="50%" align="center">
 
-## 🧠 LEARN
+### PROBLEM SOLVING
 
-Strengthen DSA, software development, data and AI skills.
+Improve DSA, logical thinking, and problem-solving.
 
 </td>
 
@@ -274,17 +321,17 @@ Strengthen DSA, software development, data and AI skills.
 
 <td width="50%" align="center">
 
-## 📊 EXPLORE
+### DATA & AI
 
-Work with data, analytics and intelligent systems.
+Improve data analytics and AI/ML capabilities.
 
 </td>
 
 <td width="50%" align="center">
 
-## 🚀 GROW
+### REAL-WORLD DEVELOPMENT
 
-Prepare for real-world software engineering opportunities.
+Build useful and practical applications.
 
 </td>
 
@@ -300,52 +347,42 @@ Prepare for real-world software engineering opportunities.
 
 <div align="center">
 
-# `05`  CONNECT
-
-<br>
-
-<p>
-If you'd like to connect, collaborate, or discuss technology, feel free to reach out.
-</p>
+## LET'S CONNECT
 
 <br>
 
 <a href="https://github.com/Harshith-Reddy-Sanikommu">
-<img src="https://img.shields.io/badge/GITHUB-Explore-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://outlook.live.com/mail/0/deeplink/compose?to=kruteek123@gmail.com">
-<img src="https://img.shields.io/badge/kruteek123%40gmail.com-Email%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/kruteek123%40gmail.com-EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://wa.me/919398490686">
-<img src="https://img.shields.io/badge/%2B91%209398490686-WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/%2B91%209398490686-WHATSAPP-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-
-<br><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:1D4ED8,100:020617&height=3&section=footer"/>
-
-<br>
-
-### `BUILD  •  LEARN  •  IMPROVE`
-
-<br>
-
-<sub>Thanks for visiting my profile.</sub>
 
 <br><br>
 
+---
+
+### BUILD • LEARN • IMPROVE
+
+<sub>Thanks for visiting my profile.</sub>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:1D4ED8,75:0F172A,100:020617&height=140&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,45:1D4ED8,75:0F172A,100:020617&height=130&section=footer"/>
