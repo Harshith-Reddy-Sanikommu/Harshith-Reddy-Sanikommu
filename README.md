@@ -1,57 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:020617,40:0F172A,70:172554,100:0891B2" width="100%"/>
+<!-- ==================== HEADER ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=HARSHITH%20REDDY%20SANIKOMMU&fontSize=42&fontColor=67E8F9&fontAlignY=55&animation=twinkling&color=0:020617,35:0F172A,65:172554,100:0891B2" width="100%"/>
 
 <br>
 
-<h1>HARSHITH REDDY SANIKOMMU</h1>
-
 <h3>
-SOFTWARE ENGINEER &nbsp;|&nbsp; DATA ANALYST &nbsp;|&nbsp; AI / ML ENTHUSIAST
+SOFTWARE ENGINEER
+&nbsp;&nbsp;|&nbsp;&nbsp;
+DATA ANALYST
+&nbsp;&nbsp;|&nbsp;&nbsp;
+AI / ML ENTHUSIAST
 </h3>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+Practical+Applications;Exploring+Data+and+Artificial+Intelligence;Developing+Software+Solutions;Learning+and+Improving+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Building+Practical+Applications;Exploring+Data+and+Artificial+Intelligence;Developing+Software+Solutions;Learning+and+Improving+Every+Day"/>
 
 <br><br>
 
+<!-- SOCIAL LINKS -->
+
 <a href="https://github.com/Harshith-Reddy-Sanikommu">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
-<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="mailto:kruteek123@gmail.com">
-<img src="https://img.shields.io/badge/Email-0369A1?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EMAIL-0891B2?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://wa.me/919398490686">
-<img src="https://img.shields.io/badge/WhatsApp-15803D?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/WHATSAPP-15803D?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:06B6D4,35:2563EB,65:7C3AED,100:EC4899" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:06B6D4,30:2563EB,60:7C3AED,100:EC4899" width="90%"/>
 
 </div>
+
 
 <br><br>
 
 
-<!-- ABOUT ME -->
+<!-- ==================== ABOUT ME ==================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=ABOUT%20ME&fontSize=27&fontColor=FFFFFF&color=0:020617,45:172554,75:1E3A8A,100:0891B2" width="92%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=ABOUT%20ME&fontSize=27&fontColor=FFFFFF&color=0:020617,40:172554,70:1E3A8A,100:0891B2" width="92%"/>
 
 <br><br>
 
@@ -79,10 +86,11 @@ software development, data analytics, and AI/ML skills.
 
 </div>
 
+
 <br><br><br>
 
 
-<!-- TECH STACK -->
+<!-- ==================== TECH STACK ==================== -->
 
 <div align="center">
 
@@ -221,10 +229,11 @@ software development, data analytics, and AI/ML skills.
 
 </div>
 
+
 <br><br><br>
 
 
-<!-- CURRENTLY LEARNING -->
+<!-- ==================== CURRENTLY LEARNING ==================== -->
 
 <div align="center">
 
@@ -248,10 +257,11 @@ software development, data analytics, and AI/ML skills.
 
 </div>
 
+
 <br><br><br>
 
 
-<!-- GOALS -->
+<!-- ==================== GOALS ==================== -->
 
 <div align="center">
 
@@ -275,10 +285,11 @@ software development, data analytics, and AI/ML skills.
 
 </div>
 
+
 <br><br><br>
 
 
-<!-- CONTACT -->
+<!-- ==================== CONTACT ==================== -->
 
 <div align="center">
 
