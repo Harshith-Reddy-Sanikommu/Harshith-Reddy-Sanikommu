@@ -12,19 +12,19 @@
 <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF"/>
 </a>
 
-  
+&nbsp;
 
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
 <img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF"/>
 </a>
 
-  
+&nbsp;
 
 <a href="mailto:kruteek123@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0369A1?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFFFFF"/>
 </a>
 
-  
+&nbsp;
 
 <a href="https://wa.me/919398490686">
 <img src="https://img.shields.io/badge/WHATSAPP-15803D?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=FFFFFF"/>
@@ -48,13 +48,13 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-2563EB?style=for-the-badge&amp;labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=for-the-badge&amp;labelColor=0F172A"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-06B6D4?style=for-the-badge&amp;labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-06B6D4?style=for-the-badge&amp;labelColor=0F172A"/>
 &nbsp;
-<img src="https://img.shields.io/badge/AI%20%26%20ML-7C3AED?style=for-the-badge&amp;labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/AI%20and%20ML-7C3AED?style=for-the-badge&amp;labelColor=0F172A"/>
 &nbsp;
-<img src="https://img.shields.io/badge/FULL--STACK-0D9488?style=for-the-badge&amp;labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-0D9488?style=for-the-badge&amp;labelColor=0F172A"/>
 
 <br><br><br>
 
@@ -62,7 +62,8 @@ I enjoy building practical applications and solving real-world problems through 
 
 <br><br>
 
-Currently improving my programming, DSA, problem-solving, <br>
+Currently improving my programming, DSA, problem-solving,
+<br>
 software development, data analytics, and AI/ML skills.
 
 </div>
@@ -89,7 +90,7 @@ software development, data analytics, and AI/ML skills.
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=000000"/>
 
-<br><br><br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/FRONTEND-FFFFFF?style=for-the-badge&amp;labelColor=164E63"/>
 
@@ -101,7 +102,7 @@ software development, data analytics, and AI/ML skills.
 &nbsp;
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000000"/>
 
-<br><br><br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/BACKEND-FFFFFF?style=for-the-badge&amp;labelColor=0C4A6E"/>
 
@@ -111,7 +112,7 @@ software development, data analytics, and AI/ML skills.
 &nbsp;
 <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&amp;logo=express&amp;logoColor=000000"/>
 
-<br><br><br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/DATABASES-FFFFFF?style=for-the-badge&amp;labelColor=134E4A"/>
 
@@ -123,7 +124,7 @@ software development, data analytics, and AI/ML skills.
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=FFFFFF"/>
 
-<br><br><br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/DATA%20ANALYTICS-FFFFFF?style=for-the-badge&amp;labelColor=312E81"/>
 
@@ -139,9 +140,9 @@ software development, data analytics, and AI/ML skills.
 &nbsp;
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&amp;logo=tableau&amp;logoColor=FFFFFF"/>
 
-<br><br><br><br>
+<br><br><br>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-FFFFFF?style=for-the-badge&amp;labelColor=4C1D95"/>
+<img src="https://img.shields.io/badge/AI%20and%20ML-FFFFFF?style=for-the-badge&amp;labelColor=4C1D95"/>
 
 <br><br>
 
@@ -151,7 +152,7 @@ software development, data analytics, and AI/ML skills.
 &nbsp;
 <img src="https://img.shields.io/badge/Computer%20Vision-A855F7?style=flat-square"/>
 
-<br><br><br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/TOOLS-FFFFFF?style=for-the-badge&amp;labelColor=831843"/>
 
@@ -175,7 +176,7 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-1E3A8A?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Machine%20Learning-4C1D95?style=for-the-badge"/>
 
@@ -187,7 +188,7 @@ software development, data analytics, and AI/ML skills.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML%20Concepts-581C87?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20and%20ML%20Concepts-581C87?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Problem%20Solving-1E40AF?style=for-the-badge"/>
 
@@ -201,7 +202,7 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
-<img src="https://img.shields.io/badge/Improve%20DSA%20%26%20Problem%20Solving-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Improve%20DSA%20and%20Problem%20Solving-1E3A8A?style=for-the-badge"/>
 
 <br><br>
 
@@ -213,7 +214,7 @@ software development, data analytics, and AI/ML skills.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Improve%20Data%20%26%20AI%20Skills-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Improve%20Data%20and%20AI%20Skills-4C1D95?style=for-the-badge"/>
 
 <br><br>
 
@@ -233,7 +234,7 @@ software development, data analytics, and AI/ML skills.
 <img src="https://img.shields.io/badge/GitHub-View%20Profile-020617?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF"/>
 </a>
 
-  
+&nbsp;
 
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF"/>
@@ -242,13 +243,13 @@ software development, data analytics, and AI/ML skills.
 <br><br>
 
 <a href="mailto:kruteek123@gmail.com">
-<img src="https://img.shields.io/badge/kruteek123%40gmail.com-Email%20Me-0369A1?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Email%20Me-0369A1?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFFFFF"/>
 </a>
 
-  
+&nbsp;
 
 <a href="https://wa.me/919398490686">
-<img src="https://img.shields.io/badge/%2B91%209398490686-WhatsApp-15803D?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/WhatsApp-15803D?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=FFFFFF"/>
 </a>
 
 <br><br><br>
@@ -257,9 +258,9 @@ software development, data analytics, and AI/ML skills.
 
 <br><br>
 
-<h4>BUILD &nbsp; • &nbsp; LEARN &nbsp; • &nbsp; IMPROVE</h4>
+BUILD &bull; LEARN &bull; IMPROVE
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,35:2563EB,70:1D4ED8,100:020617&amp;height=140&amp;section=footer" width="100%"/>
 
