@@ -11,15 +11,21 @@
 <a href="https://github.com/Harshith-Reddy-Sanikommu">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
 <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:kruteek123@gmail.com">
 <img src="https://img.shields.io/badge/Email-0369A1?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
+
 &nbsp;
+
 <a href="https://wa.me/919398490686">
 <img src="https://img.shields.io/badge/WhatsApp-15803D?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
 </a>
@@ -32,15 +38,13 @@
 
 <br>
 
-<!-- ABOUT -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=ABOUT%20ME&fontSize=27&fontColor=FFFFFF&color=0:020617,50:172554,100:0891B2"/>
 
 <br><br>
 
-<h3> B.Tech Computer Science & Design Student </h3>
+<h3>B.Tech Computer Science and Design Student</h3>
 
 <br>
 
@@ -58,14 +62,13 @@ I enjoy building practical applications and solving real-world problems through 
 
 <br>
 
-Currently focused on improving my programming, DSA, problem-solving, <br>
+Currently focused on improving my programming, DSA, problem-solving,
+<br>
 software development, data analytics, and AI/ML skills.
 
 </div>
 
 <br><br>
-
-<!-- TECH STACK -->
 
 <div align="center">
 
@@ -167,8 +170,6 @@ software development, data analytics, and AI/ML skills.
 
 <br><br>
 
-<!-- CURRENTLY LEARNING -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=CURRENTLY%20LEARNING&fontSize=27&fontColor=FFFFFF&color=0:020617,35:312E81,70:6D28D9,100:DB2777"/>
@@ -195,8 +196,6 @@ software development, data analytics, and AI/ML skills.
 
 <br><br>
 
-<!-- FOCUS -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=WHAT%20I%27M%20FOCUSED%20ON&fontSize=26&fontColor=FFFFFF&color=0:020617,30:134E4A,60:0D9488,100:2563EB"/>
@@ -204,20 +203,26 @@ software development, data analytics, and AI/ML skills.
 <br><br>
 
 <img src="https://img.shields.io/badge/01%20%20DSA%20%26%20Problem%20Solving-1E3A8A?style=for-the-badge"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/02%20%20Real--World%20Applications-164E63?style=for-the-badge"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/03%20%20Software%20Development-312E81?style=for-the-badge"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/04%20%20Data%20%26%20AI%20Skills-4C1D95?style=for-the-badge"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/05%20%20Industry%20Readiness-831843?style=for-the-badge"/>
 
 </div>
 
 <br><br>
-
-<!-- CONNECT -->
 
 <div align="center">
 
@@ -229,7 +234,7 @@ software development, data analytics, and AI/ML skills.
 <img src="https://img.shields.io/badge/GitHub-View%20Profile-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
- 
+&nbsp;
 
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
@@ -241,7 +246,7 @@ software development, data analytics, and AI/ML skills.
 <img src="https://img.shields.io/badge/kruteek123%40gmail.com-Email%20Me-0369A1?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
- 
+&nbsp;
 
 <a href="https://wa.me/919398490686">
 <img src="https://img.shields.io/badge/%2B91%209398490686-WhatsApp-15803D?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
