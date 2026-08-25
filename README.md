@@ -46,6 +46,7 @@ SOFTWARE ENGINEER &nbsp;|&nbsp; DATA ANALYST &nbsp;|&nbsp; AI / ML ENTHUSIAST
 
 <br><br>
 
+
 <!-- ABOUT ME -->
 
 <div align="center">
@@ -58,17 +59,13 @@ SOFTWARE ENGINEER &nbsp;|&nbsp; DATA ANALYST &nbsp;|&nbsp; AI / ML ENTHUSIAST
 
 <br>
 
-<font size="5">
-
-<b>Software Engineering</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Data Analytics</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>AI / ML</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Full-Stack Development</b>
-
-</font>
+<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=for-the-badge&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Analytics-06B6D4?style=for-the-badge&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Full--Stack%20Development-0D9488?style=for-the-badge&labelColor=020617"/>
 
 <br><br><br>
 
@@ -84,6 +81,7 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
+
 <!-- TECH STACK -->
 
 <div align="center">
@@ -92,27 +90,29 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
+
+<!-- PROGRAMMING -->
+
 <h3>
 <font color="#67E8F9">PROGRAMMING</font>
 </h3>
 
 <br>
 
-<font size="5">
-
-<b>Java</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Python</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>C</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>SQL</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>JavaScript</b>
-
-</font>
+<img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/C-0891B2?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-0369A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-D97706?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
 
 <br><br><br>
+
+
+<!-- FRONTEND -->
 
 <h3>
 <font color="#22D3EE">FRONTEND</font>
@@ -120,17 +120,16 @@ software development, data analytics, and AI/ML skills.
 
 <br>
 
-<font size="5">
-
-<b>HTML</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>CSS</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>React.js</b>
-
-</font>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CSS-2563EB?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/React.js-0891B2?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
 
 <br><br><br>
+
+
+<!-- BACKEND -->
 
 <h3>
 <font color="#38BDF8">BACKEND</font>
@@ -138,15 +137,14 @@ software development, data analytics, and AI/ML skills.
 
 <br>
 
-<font size="5">
-
-<b>Node.js</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Express.js</b>
-
-</font>
+<img src="https://img.shields.io/badge/Node.js-15803D?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Express.js-334155?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
 
 <br><br><br>
+
+
+<!-- DATABASES -->
 
 <h3>
 <font color="#2DD4BF">DATABASES</font>
@@ -154,17 +152,16 @@ software development, data analytics, and AI/ML skills.
 
 <br>
 
-<font size="5">
-
-<b>MongoDB</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>MongoDB Atlas</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>MySQL</b>
-
-</font>
+<img src="https://img.shields.io/badge/MongoDB-15803D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-0F766E?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-0369A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
 
 <br><br><br>
+
+
+<!-- DATA ANALYTICS -->
 
 <h3>
 <font color="#818CF8">DATA ANALYTICS</font>
@@ -172,21 +169,20 @@ software development, data analytics, and AI/ML skills.
 
 <br>
 
-<font size="5">
-
-<b>Pandas</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>NumPy</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Matplotlib</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Power BI</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Tableau</b>
-
-</font>
+<img src="https://img.shields.io/badge/Pandas-4338CA?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-3730A3?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-0369A1?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-B45309?style=for-the-badge&logo=powerbi&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tableau-C2410C?style=for-the-badge&logo=tableau&logoColor=FFFFFF"/>
 
 <br><br><br>
+
+
+<!-- AI ML -->
 
 <h3>
 <font color="#A78BFA">AI / ML</font>
@@ -194,17 +190,16 @@ software development, data analytics, and AI/ML skills.
 
 <br>
 
-<font size="5">
-
-<b>Machine Learning</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Deep Learning</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Computer Vision</b>
-
-</font>
+<img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Computer%20Vision-9333EA?style=for-the-badge"/>
 
 <br><br><br>
+
+
+<!-- TOOLS -->
 
 <h3>
 <font color="#F472B6">TOOLS</font>
@@ -212,17 +207,13 @@ software development, data analytics, and AI/ML skills.
 
 <br>
 
-<font size="5">
-
-<b>Git</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>GitHub</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>VS Code</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Streamlit</b>
-
-</font>
+<img src="https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-0369A1?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-DC2626?style=for-the-badge&logo=streamlit&logoColor=FFFFFF"/>
 
 <br><br><br>
 
@@ -232,6 +223,7 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
+
 <!-- CURRENTLY LEARNING -->
 
 <div align="center">
@@ -240,27 +232,24 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
-<font size="5">
-
-<b>DSA</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Machine Learning</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Full-Stack Development</b>
+<img src="https://img.shields.io/badge/DSA-1E3A8A?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Machine%20Learning-4C1D95?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Full--Stack%20Development-115E59?style=for-the-badge"/>
 
 <br><br>
 
-<b>Advanced Data Analytics</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>AI / ML Concepts</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Problem Solving</b>
-
-</font>
+<img src="https://img.shields.io/badge/Advanced%20Data%20Analytics-164E63?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20Concepts-581C87?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Problem%20Solving-1E40AF?style=for-the-badge"/>
 
 </div>
 
 <br><br><br>
+
 
 <!-- GOALS -->
 
@@ -270,29 +259,26 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
-<font size="5">
-
-<b>Improve DSA & Problem Solving</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Build Real-World Applications</b>
+<img src="https://img.shields.io/badge/Improve%20DSA%20%26%20Problem%20Solving-1E3A8A?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Build%20Real--World%20Applications-164E63?style=for-the-badge"/>
 
 <br><br>
 
-<b>Strengthen Software Development</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Improve Data & AI Skills</b>
+<img src="https://img.shields.io/badge/Strengthen%20Software%20Development-312E81?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Improve%20Data%20%26%20AI%20Skills-4C1D95?style=for-the-badge"/>
 
 <br><br>
 
-<b>Gain Industry Experience</b>
-
-</font>
+<img src="https://img.shields.io/badge/Gain%20Industry%20Experience-831843?style=for-the-badge"/>
 
 </div>
 
 <br><br><br>
 
-<!-- CONNECT -->
+
+<!-- CONTACT -->
 
 <div align="center">
 
