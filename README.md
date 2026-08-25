@@ -6,42 +6,36 @@
 
 <br>
 
-<h3>
+<h2>
 SOFTWARE ENGINEER
 &nbsp;&nbsp;|&nbsp;&nbsp;
 DATA ANALYST
 &nbsp;&nbsp;|&nbsp;&nbsp;
 AI / ML ENTHUSIAST
-</h3>
+</h2>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Building+Practical+Applications;Exploring+Data+and+Artificial+Intelligence;Developing+Software+Solutions;Learning+and+Improving+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Building+Practical+Applications;Exploring+Data+and+Artificial+Intelligence;Developing+Software+Solutions;Solving+Real-World+Problems;Learning+and+Improving+Every+Day"/>
 
 <br><br>
 
-<!-- SOCIAL LINKS -->
+<!-- ==================== SOCIAL LINKS ==================== -->
 
 <a href="https://github.com/Harshith-Reddy-Sanikommu">
 <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
 <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
 &nbsp;&nbsp;
-
-<a href="mailto:kruteek123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0891B2?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<a href="https://outlook.office.com/mail/deeplink/compose?to=kruteek123@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0891B2?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF"/>
 </a>
-
 &nbsp;&nbsp;
-
-<a href="https://wa.me/919398490686">
-<img src="https://img.shields.io/badge/WHATSAPP-15803D?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+<a href="tel:+919398490686">
+<img src="https://img.shields.io/badge/CONTACT-15803D?style=for-the-badge&logo=phone&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
@@ -50,9 +44,7 @@ AI / ML ENTHUSIAST
 
 </div>
 
-
 <br><br>
-
 
 <!-- ==================== ABOUT ME ==================== -->
 
@@ -62,7 +54,7 @@ AI / ML ENTHUSIAST
 
 <br><br>
 
-<h3>B.Tech Computer Science and Design Student</h3>
+<h2> B.Tech Computer Science and Design Student </h2>
 
 <br>
 
@@ -76,19 +68,39 @@ AI / ML ENTHUSIAST
 
 <br><br><br>
 
-I enjoy building practical applications and solving real-world problems through technology.
-
-<br><br>
-
-Currently improving my programming, DSA, problem-solving,
+<h3>
+I am a Computer Science and Design student passionate about building
 <br>
-software development, data analytics, and AI/ML skills.
+practical software applications and solving real-world problems with technology.
+</h3>
+
+<br>
+
+<h3>
+I enjoy working across software development, data analytics, and artificial intelligence,
+<br>
+with a strong interest in turning ideas into useful and scalable applications.
+</h3>
+
+<br>
+
+<h3>
+I believe in learning by building, improving through problem solving,
+<br>
+and continuously strengthening my technical foundation through hands-on projects.
+</h3>
+
+<br>
+
+<h3>
+My goal is to grow into a strong software professional who can combine
+<br>
+programming, data, and AI to create meaningful technology solutions.
+</h3>
 
 </div>
 
-
 <br><br><br>
-
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -97,7 +109,6 @@ software development, data analytics, and AI/ML skills.
 <img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=TECH%20STACK&fontSize=28&fontColor=FFFFFF&color=0:020617,35:172554,65:1E40AF,100:0891B2" width="92%"/>
 
 <br><br><br>
-
 
 <!-- PROGRAMMING -->
 
@@ -119,7 +130,6 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
-
 <!-- FRONTEND -->
 
 <h3>
@@ -136,7 +146,6 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
-
 <!-- BACKEND -->
 
 <h3>
@@ -150,7 +159,6 @@ software development, data analytics, and AI/ML skills.
 <img src="https://img.shields.io/badge/Express.js-334155?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
 
 <br><br><br>
-
 
 <!-- DATABASES -->
 
@@ -167,7 +175,6 @@ software development, data analytics, and AI/ML skills.
 <img src="https://img.shields.io/badge/MySQL-0369A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
 
 <br><br><br>
-
 
 <!-- DATA ANALYTICS -->
 
@@ -189,7 +196,6 @@ software development, data analytics, and AI/ML skills.
 
 <br><br><br>
 
-
 <!-- AI ML -->
 
 <h3>
@@ -205,7 +211,6 @@ software development, data analytics, and AI/ML skills.
 <img src="https://img.shields.io/badge/Computer%20Vision-9333EA?style=for-the-badge"/>
 
 <br><br><br>
-
 
 <!-- TOOLS -->
 
@@ -229,9 +234,7 @@ software development, data analytics, and AI/ML skills.
 
 </div>
 
-
 <br><br><br>
-
 
 <!-- ==================== CURRENTLY LEARNING ==================== -->
 
@@ -257,9 +260,7 @@ software development, data analytics, and AI/ML skills.
 
 </div>
 
-
 <br><br><br>
-
 
 <!-- ==================== GOALS ==================== -->
 
@@ -285,9 +286,7 @@ software development, data analytics, and AI/ML skills.
 
 </div>
 
-
 <br><br><br>
-
 
 <!-- ==================== CONTACT ==================== -->
 
@@ -300,23 +299,17 @@ software development, data analytics, and AI/ML skills.
 <a href="https://github.com/Harshith-Reddy-Sanikommu">
 <img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/harshith-reddy-sanikommu-832540341">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
-<br><br>
-
-<a href="mailto:kruteek123@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-MESSAGE%20ME-0369A1?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
-
 &nbsp;&nbsp;
-
-<a href="https://wa.me/919398490686">
-<img src="https://img.shields.io/badge/WHATSAPP-CONTACT-15803D?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+<a href="https://outlook.office.com/mail/deeplink/compose?to=kruteek123@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-MESSAGE%20ME-0369A1?style=for-the-badge&logo=microsoftoutlook&logoColor=FFFFFF"/>
+</a>
+&nbsp;&nbsp;
+<a href="tel:+919398490686">
+<img src="https://img.shields.io/badge/CONTACT-CALL%20ME-15803D?style=for-the-badge&logo=phone&logoColor=FFFFFF"/>
 </a>
 
 <br><br><br>
@@ -325,7 +318,7 @@ software development, data analytics, and AI/ML skills.
 
 <br><br>
 
-<h4>BUILD &nbsp; • &nbsp; LEARN &nbsp; • &nbsp; IMPROVE</h4>
+<h3>BUILD &nbsp; • &nbsp; LEARN &nbsp; • &nbsp; IMPROVE</h3>
 
 <br><br>
 
